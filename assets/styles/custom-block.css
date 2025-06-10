@@ -212,7 +212,7 @@
 
 .Clients_top-item::before {
     left: -45px;
-    background-image: url(../../../images/common/leaf_left.svg)
+    background-image: url(https://raw.githubusercontent.com/webcreate123/squadbeyond-dinii/main/images/common/leaf_left.svg)
 }
 
 @media screen and (max-width:1024px) {
@@ -229,7 +229,7 @@
 
 .Clients_top-item::after {
     right: -45px;
-    background-image: url(../../../images/common/leaf_right.svg)
+    background-image: url(https://raw.githubusercontent.com/webcreate123/squadbeyond-dinii/main/images/common/leaf_right.svg)
 }
 
 @media screen and (max-width:1024px) {

@@ -131,7 +131,7 @@
 
 .ColumnList.-slider .splide__arrows .splide__arrow--prev::after,
 .ColumnList.-slider .splide__arrows .splide__arrow--prev::before {
-    background-image: url(../../../images/common/arrow_prev.svg)
+    background-image: url(https://raw.githubusercontent.com/webcreate123/squadbeyond-dinii/main/images/common/arrow_prev.svg)
 }
 
 .ColumnList.-slider .splide__arrows .splide__arrow--prev::before {
@@ -160,7 +160,7 @@
 
 .ColumnList.-slider .splide__arrows .splide__arrow--next::after,
 .ColumnList.-slider .splide__arrows .splide__arrow--next::before {
-    background-image: url(../../../images/common/arrow_next.svg)
+    background-image: url(https://raw.githubusercontent.com/webcreate123/squadbeyond-dinii/main/images/common/arrow_next.svg)
 }
 
 .ColumnList.-slider .splide__arrows .splide__arrow--next::before {
@@ -381,7 +381,7 @@
 
 .CasestudyList.-slider .splide__arrows .splide__arrow--prev::after,
 .CasestudyList.-slider .splide__arrows .splide__arrow--prev::before {
-    background-image: url(../../../images/common/arrow_prev.svg)
+    background-image: url(https://raw.githubusercontent.com/webcreate123/squadbeyond-dinii/main/images/common/arrow_prev.svg)
 }
 
 .CasestudyList.-slider .splide__arrows .splide__arrow--prev::before {
@@ -410,7 +410,7 @@
 
 .CasestudyList.-slider .splide__arrows .splide__arrow--next::after,
 .CasestudyList.-slider .splide__arrows .splide__arrow--next::before {
-    background-image: url(../../../images/common/arrow_next.svg)
+    background-image: url(https://raw.githubusercontent.com/webcreate123/squadbeyond-dinii/main/images/common/arrow_next.svg)
 }
 
 .CasestudyList.-slider .splide__arrows .splide__arrow--next::before {
