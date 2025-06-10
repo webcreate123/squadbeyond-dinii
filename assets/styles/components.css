@@ -1,26 +1,4 @@
-:root {
-    --color-black: #282828;
-    --color-white: #FFFFFF;
-    --color-orange: #FF7500;
-    --color-yellow: #F9AA00;
-    --color-green: #00BE1E;
-    --color-purple: #9600D2;
-    --color-blue: #0019EB;
-    --color-emerald: #008200;
-    --color-s9: #3F4042;
-    --color-s8: #57595C;
-    --color-s7: #6F7175;
-    --color-s6: #888A8F;
-    --color-s5: #A0A3A8;
-    --color-s4: #B8BBC2;
-    --color-s3: #D0D4DB;
-    --color-s2: #E9EDF5;
-    --color-s1: #F2F7FF;
-    --color-s0: #F7FAFC;
-    --color-attention: #FF0046;
-    --color-system: #245EF2;
-    --color-bluegray: #56698F
-}
+/* css コンポーネント css */
 
 .ColumnList {
     width: 100%;
